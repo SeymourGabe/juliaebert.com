@@ -2,32 +2,40 @@
   <div>
     <primary-section
       title="About Me"
-      subtitle="Julia Ebert, apprentice robot herder"
+      subtitle="Gabriel Seymour, science enthusiast and future PhD student."
       texture="graph-paper"
     >
       <div slot="links">
         <p class="buttons">
           <icon-button-link
-            to="https://github.com/jtebert"
+            to="https://github.com/SeymourGabe"
             icon="github-circle"
             title="GitHub"
           >GitHub</icon-button-link>
           <icon-button-link
-            to="https://www.linkedin.com/in/ebertjulia/"
+            to="https://www.linkedin.com/in/SeymourGabe/"
             icon="linkedin"
             title="LinkedIn"
           >LinkedIn</icon-button-link>
         </p>
       </div>
       <gallery
-        :img-srcs="[
-      ['march-for-science.jpg', '2017 Boston March for Science with SSR labmates'],
+        :img-srcs="[ 
+      ['scienceWithApt.jpg', 'Research in atmospheric chemistry with Dr. Kevin Aptowicz'],
       ['curling.jpg', '2017 college curling national championship (Harvard took 4th place!)'],
       ['project_night.jpg', 'Laser cutting a dishwasher sign at Project Night', 'Olivia Nie/SEAS Communications']
       ]"
       ></gallery>
       <div class="block-content content">
         <vue-markdown>
+I'm currently a senior undergraduate at [Columbia University](https://columbia.edu) studying electrical engineering. I transferred to Columbia from [West Chester University](https://wcupa.edu) as part of the 3-2 program.Under the 3-2 program, I completed the requirements for a B.S. in physics with a minor in mathematics at West Chester in 3 years, and upon the completion of the spring 2020 semester, I will have completed the requirements for a B.S. in electrical engineering from Columbia. Upon graduation in the spring of 2020, I will receive a B.S. from both West Chester and Columbia.
+
+I've worked in multiple labs spanning a variety of fields. These fields include atmospheric chemistry, quantum photonics, food science, and robotics. At one time or another, I have been interested in physics, electrical engineering, computer science, design, or mechanical engineering. After trying to decide which of these fields to go into, I realized that robotics is the perfect intersection! I hope to study bio-inspired swarm robotics where I can use my experience in these fields to make an intellegent and robust system.
+  
+I also care about outreach and have done some stuff bc I really like it.
+
+ 
+
 I am a PhD candidate in computer science at Harvard University, where I study bio-inspired collective robotics with Prof. Radhika Nagpal in the [Self-organizing Systems Research group](https://ssr.seas.harvard.edu/). I am also a Department of Energy Computational Science Graduate Fellow (DOE CSGF). Previously, I earned an MRes in bioengineering from Imperial College London and a BS in behavioral neuroscience from Northeastern University.
 
 I am interested in biology, learning, robotics, and the interface between them, such as bio-inspired robotics, cooperative robot control, and artificial intelligence. I also consider myself a full-stack roboticist, working on both hardware (mechanical and electronical design) and software (algorithms and control). This lets me consider mechanical and algorithmic co-design in developing robust robot collectives.

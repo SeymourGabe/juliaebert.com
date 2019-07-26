@@ -4,7 +4,7 @@ export default {
   mode: 'universal',
 
   env: {
-    siteTitle: 'Julia Ebert',
+    siteTitle: 'Gabriel Seymour',
     navItems: {
       "About Me": "",
       CV: "cv",
@@ -18,12 +18,13 @@ export default {
   /*
   ** Headers of the page
   */
+// title: Changes the text on the tab
   head: {
-    title: 'Julia Ebert',
+    title: 'Gabriel Seymour',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: "Julia Ebert, apprentice robot herder. PhD candidate at Harvard University researching collective robotics." },
+      { hid: 'description', name: 'description', content: "Gabriel Seymour, science enthusiest and future Ph.D. candidate." },
       { name: 'msapplication-TileColor', content: "#03bc25" },
       { name: 'theme-color', content: '#03bc25' }
     ],

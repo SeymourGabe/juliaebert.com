@@ -6,7 +6,7 @@
       </div>
       <div class="hero-body">
         <div class="typer-title">
-          <h1 class="name-title">Julia Ebert</h1>
+          <h1 class="name-title">Gabriel Seymour</h1> <!-- Where to put name-->
           <no-ssr>
             <vue-typer
               class="subtitle"
@@ -16,9 +16,10 @@
               :pre-erase-delay="2000"
               erase-style="clear"
               :text="[
-              'programs a swarm.',
+              'plays with lasers.',
               'builds robots.',
-              'simulates satellites.',
+              'simulates particles.',
+	      'cooks food.',
               //'writes a blog.',
               'makes things.']"
             ></vue-typer>
